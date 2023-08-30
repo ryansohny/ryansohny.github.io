@@ -19,4 +19,4 @@ package-lock.json
 .vscode
 
 # Misc
-assets/js/dist
+# assets/js/dist ## comment out (2023-08-30 by ryansohny)
