@@ -8,3 +8,6 @@ tags:
   - bioinformatics
 ---
 
+* Locus, allele → currency of genetics
+
+# 1. Allele frequencies
