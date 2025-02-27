@@ -31,5 +31,5 @@ That’s who Willie Mays was from start to finish, a man who inspired admiration
 
 God bless Willie Mays and may he rest in eternal peace.
 
-[^1]: 산업, 문화 등 사회 전반에 걸친 일들에 대해 통찰력 있는 글들을 써 소개하시곤 하는 권석준 교수님께서, 본인의 페이스북에 윌리 메이스의 생애에 대한 헌정사를 쓴 것이 있다 (링크). 일독을 권한다.
+[^1]: 산업, 문화 등 사회 전반에 걸친 일들에 대해 통찰력 있는 글들을 써 소개하시곤 하는 권석준 교수님께서, 본인의 페이스북에 윌리 메이스의 생애에 대한 헌정사를 쓴 것이 있다 ([링크](https://www.facebook.com/sjoonkwon/posts/pfbid05Qwa8t3UgX8RR57RfbD378rdzYpbKHR49iJwb8ztfdZXaXJEdw4rykZ7uoDMhPCEl?__cft__[0]=AZW5zatKewu8_u4WTEo1yIqIkMOoLAs3ZKAr4ubRpyUG_Ok5GwE9BjoAFoknqGPvPQWTzDjdapJ_h6YvMYvQgKJylqpnESinUla2rYVT1jvTG-NWe2EE-9aSu0yArtJ3HoVV9nipVeYSm4zl5IyqAcEnrvttaolNGKQIl-0GDSSzug&__tn__=%2CO%2CP-R)). 일독을 권한다.
 [^2]: 윌리 메이스는 선수생활 말미 두 시즌을 제외하고 뉴욕-샌프란시스코 자이언츠 (자이언츠는 1958년 뉴욕에서 샌프란시스코로 연고지를 이전했다)에서 뛰었다.
