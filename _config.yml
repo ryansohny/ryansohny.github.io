@@ -113,3 +113,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+google_site_verification : PMZUBBfNsj3aRAPzyNGrT0bW8XAM_KIz-qP91nfqDEU
